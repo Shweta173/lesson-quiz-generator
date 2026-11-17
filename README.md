@@ -16,6 +16,25 @@ Built as a take-home assignment for Robokidz.
 
 ---
 
+## Screenshots
+
+### Create a quiz
+Title, student age and lesson text (50–5,000 characters, with a live counter). The Generate button stays disabled until the input is valid.
+
+![Create a new quiz form](docs/screenshots/create-quiz.png)
+
+### Saved quizzes
+All generated quizzes, newest first. Click one to open it.
+
+![List of saved quizzes](docs/screenshots/quiz-list.png)
+
+### Take a quiz
+Each question has 4 options. A progress bar tracks answered questions, and the score is shown at the end.
+
+![Quiz view with questions and options](docs/screenshots/quiz-view.png)
+
+---
+
 ## Tech Stack
 
 | Layer     | Technology |
