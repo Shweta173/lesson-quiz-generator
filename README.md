@@ -302,6 +302,8 @@ I developed the application myself and used AI tools as supporting resources dur
 - Used as an additional resource to review code structure and implementation approaches
 - Helped identify possible edge cases and areas for improvement
 - Provided suggestions for cleaner code organization and better maintainability
+- Helped me write and structure this README (setup steps, API reference, design decisions and screenshots)
+- Helped me publish the project to GitHub, including Git setup and adding the app screenshots
 
 ### My Contribution
 
